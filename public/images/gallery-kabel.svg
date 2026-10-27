@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Penataan kabel dan proteksi sistem DC">
+  <title>Penataan kabel dan proteksi sistem DC</title>
+  <defs>
+    <linearGradient id="a2611d6-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#132f4c"/>
+      <stop offset="100%" stop-color="#08192b"/>
+    </linearGradient>
+    <radialGradient id="a2611d6-sun" cx="76%" cy="18%" r="52%">
+      <stop offset="0%" stop-color="#f87171" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#f87171" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="a2611d6-cell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b3f74"/>
+      <stop offset="55%" stop-color="#0e2c56"/>
+      <stop offset="100%" stop-color="#173a6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="#0d1f33"/>
+  <rect x="0" y="500" width="800" height="100" fill="#0a1826"/>
+  <rect x="60" y="130" width="680" height="26" rx="6" fill="#16324e"/><path d="M60 143h680" stroke="#38bdf8" stroke-width="5" stroke-opacity=".55"/><rect x="60" y="196" width="680" height="26" rx="6" fill="#16324e"/><path d="M60 209h680" stroke="#38bdf8" stroke-width="5" stroke-opacity=".55"/><rect x="60" y="262" width="680" height="26" rx="6" fill="#16324e"/><path d="M60 275h680" stroke="#38bdf8" stroke-width="5" stroke-opacity=".55"/><rect x="60" y="328" width="680" height="26" rx="6" fill="#16324e"/><path d="M60 341h680" stroke="#38bdf8" stroke-width="5" stroke-opacity=".55"/><rect x="60" y="394" width="680" height="26" rx="6" fill="#16324e"/><path d="M60 407h680" stroke="#38bdf8" stroke-width="5" stroke-opacity=".55"/>
+  <rect x="300" y="470" width="200" height="104" rx="10" fill="#1b3b5c"/>
+  <circle cx="352" cy="522" r="24" fill="#0a1826" stroke="#f87171" stroke-width="5"/>
+  <circle cx="448" cy="522" r="24" fill="#0a1826" stroke="#4ade80" stroke-width="5"/>
+</svg>

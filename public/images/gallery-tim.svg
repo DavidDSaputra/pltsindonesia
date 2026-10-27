@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Tim teknisi bersertifikat sebelum memulai pekerjaan">
+  <title>Tim teknisi bersertifikat sebelum memulai pekerjaan</title>
+  <defs>
+    <linearGradient id="a2e2495-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b3f70"/>
+      <stop offset="100%" stop-color="#06213c"/>
+    </linearGradient>
+    <radialGradient id="a2e2495-sun" cx="76%" cy="18%" r="52%">
+      <stop offset="0%" stop-color="#fcd34d" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#fcd34d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="a2e2495-cell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b3f74"/>
+      <stop offset="55%" stop-color="#0e2c56"/>
+      <stop offset="100%" stop-color="#173a6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="452" fill="#0c2b4a"/>
+  <rect x="0" y="452" width="800" height="148" fill="#0a2033"/>
+      <g>
+      <circle cx="220" cy="300" r="30" fill="#f5d0a9"/>
+      <path d="M188 286 a32 32 0 0 1 64 0z" fill="#fbbf24"/>
+      <rect x="164" y="338" width="112" height="150" rx="26" fill="#1d3f63"/>
+      <rect x="180" y="352" width="80" height="86" rx="10" fill="#fbbf24" fill-opacity=".85"/>
+    </g>    <g>
+      <circle cx="330" cy="300" r="30" fill="#f5d0a9"/>
+      <path d="M298 286 a32 32 0 0 1 64 0z" fill="#fbbf24"/>
+      <rect x="274" y="338" width="112" height="150" rx="26" fill="#1d3f63"/>
+      <rect x="290" y="352" width="80" height="86" rx="10" fill="#38bdf8" fill-opacity=".85"/>
+    </g>    <g>
+      <circle cx="440" cy="300" r="30" fill="#f5d0a9"/>
+      <path d="M408 286 a32 32 0 0 1 64 0z" fill="#fbbf24"/>
+      <rect x="384" y="338" width="112" height="150" rx="26" fill="#1d3f63"/>
+      <rect x="400" y="352" width="80" height="86" rx="10" fill="#f87171" fill-opacity=".85"/>
+    </g>    <g>
+      <circle cx="550" cy="300" r="30" fill="#f5d0a9"/>
+      <path d="M518 286 a32 32 0 0 1 64 0z" fill="#fbbf24"/>
+      <rect x="494" y="338" width="112" height="150" rx="26" fill="#1d3f63"/>
+      <rect x="510" y="352" width="80" height="86" rx="10" fill="#a3e635" fill-opacity=".85"/>
+    </g>
+  <path d="M60 168h300l16 44H44z" fill="#0e3358"/>
+  <path d="M470 150h280v56H470z" fill="#0e3358"/>
+</svg>

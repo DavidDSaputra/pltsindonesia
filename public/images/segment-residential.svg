@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Rumah tinggal dengan panel surya di atap">
+  <title>Rumah tinggal dengan panel surya di atap</title>
+  <defs>
+    <linearGradient id="sd17bc7-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0e4a7a"/>
+      <stop offset="100%" stop-color="#072a45"/>
+    </linearGradient>
+    <radialGradient id="sd17bc7-sun" cx="76%" cy="18%" r="52%">
+      <stop offset="0%" stop-color="#fde68a" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#fde68a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sd17bc7-cell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b3f74"/>
+      <stop offset="55%" stop-color="#0e2c56"/>
+      <stop offset="100%" stop-color="#173a6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sd17bc7-sky)"/>
+  <rect width="800" height="600" fill="url(#sd17bc7-sun)"/>
+  <circle cx="612" cy="108" r="40" fill="#fde68a" fill-opacity=".9"/>
+  <path d="M0 250h800v60H0z" fill="#0f2a48" fill-opacity=".85"/>
+  <g transform="translate(60 268) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(208 268) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(356 268) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(504 268) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(652 268) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(60 364) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(208 364) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(356 364) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(504 364) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(652 364) skewY(-7)">
+  <rect width="132" height="82" rx="3" fill="url(#sd17bc7-cell)"/>
+  <rect width="132" height="82" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M44 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M88 0V82" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 41H132" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="132" height="82" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <path d="M0 470h800v130H0z" fill="#08202f"/>
+  <path d="M90 470v100h220V470M490 470v120h220V470" fill="none" stroke="#1e3f68" stroke-width="4"/>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Sistem surya mandiri di lokasi terpencil">
+  <title>Sistem surya mandiri di lokasi terpencil</title>
+  <defs>
+    <linearGradient id="af7f98f-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f5c3d"/>
+      <stop offset="100%" stop-color="#0a2a2b"/>
+    </linearGradient>
+    <radialGradient id="af7f98f-sun" cx="76%" cy="18%" r="52%">
+      <stop offset="0%" stop-color="#fcd34d" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#fcd34d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="af7f98f-cell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b3f74"/>
+      <stop offset="55%" stop-color="#0e2c56"/>
+      <stop offset="100%" stop-color="#173a6b"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 430 L180 250 L300 430z" fill="#1a4433"/>
+  <path d="M520 430 L660 286 L800 430z" fill="#153a2c"/>
+  <path d="M0 430h800v170H0z" fill="#123021"/>
+  <g transform="translate(140 300) skewY(-6)">
+  <rect width="124" height="52" rx="3" fill="url(#af7f98f-cell)"/>
+  <rect width="124" height="52" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M41.33 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M82.67 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 26H124" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="124" height="52" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g><g transform="translate(280 300) skewY(-6)">
+  <rect width="124" height="52" rx="3" fill="url(#af7f98f-cell)"/>
+  <rect width="124" height="52" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M41.33 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M82.67 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 26H124" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="124" height="52" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g><g transform="translate(420 300) skewY(-6)">
+  <rect width="124" height="52" rx="3" fill="url(#af7f98f-cell)"/>
+  <rect width="124" height="52" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M41.33 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M82.67 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 26H124" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="124" height="52" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g><g transform="translate(560 300) skewY(-6)">
+  <rect width="124" height="52" rx="3" fill="url(#af7f98f-cell)"/>
+  <rect width="124" height="52" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M41.33 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M82.67 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 26H124" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="124" height="52" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g><g transform="translate(140 362) skewY(-6)">
+  <rect width="124" height="52" rx="3" fill="url(#af7f98f-cell)"/>
+  <rect width="124" height="52" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M41.33 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M82.67 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 26H124" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="124" height="52" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g><g transform="translate(280 362) skewY(-6)">
+  <rect width="124" height="52" rx="3" fill="url(#af7f98f-cell)"/>
+  <rect width="124" height="52" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M41.33 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M82.67 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 26H124" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="124" height="52" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g><g transform="translate(420 362) skewY(-6)">
+  <rect width="124" height="52" rx="3" fill="url(#af7f98f-cell)"/>
+  <rect width="124" height="52" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M41.33 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M82.67 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 26H124" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="124" height="52" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g><g transform="translate(560 362) skewY(-6)">
+  <rect width="124" height="52" rx="3" fill="url(#af7f98f-cell)"/>
+  <rect width="124" height="52" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M41.33 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M82.67 0V52" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 26H124" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="124" height="52" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <path d="M150 424h520" stroke="#94a3b8" stroke-width="5"/>
+  <rect x="60" y="452" width="96" height="82" rx="6" fill="#1d4433"/>
+  <path d="M60 452l48-30 48 30" fill="#25573f"/>
+</svg>

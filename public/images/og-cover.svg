@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Surya Nusa Energi — kontraktor panel surya dan PLTS">
+  <title>Surya Nusa Energi — kontraktor panel surya dan PLTS</title>
+  <defs>
+    <linearGradient id="og5bc3c1-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b3b74"/>
+      <stop offset="100%" stop-color="#05192e"/>
+    </linearGradient>
+    <radialGradient id="og5bc3c1-sun" cx="76%" cy="18%" r="52%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="og5bc3c1-cell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b3f74"/>
+      <stop offset="55%" stop-color="#0e2c56"/>
+      <stop offset="100%" stop-color="#173a6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#og5bc3c1-sky)"/>
+  <rect width="1200" height="630" fill="url(#og5bc3c1-sun)"/>
+  <circle cx="930" cy="130" r="58" fill="#fbbf24" fill-opacity=".9"/>
+  <g transform="translate(40 400) skewY(-6)">
+  <rect width="130" height="96" rx="3" fill="url(#og5bc3c1-cell)"/>
+  <rect width="130" height="96" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M43.33 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M86.67 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 32H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 64H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="130" height="96" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(185 400) skewY(-6)">
+  <rect width="130" height="96" rx="3" fill="url(#og5bc3c1-cell)"/>
+  <rect width="130" height="96" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M43.33 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M86.67 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 32H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 64H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="130" height="96" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(330 400) skewY(-6)">
+  <rect width="130" height="96" rx="3" fill="url(#og5bc3c1-cell)"/>
+  <rect width="130" height="96" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M43.33 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M86.67 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 32H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 64H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="130" height="96" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(475 400) skewY(-6)">
+  <rect width="130" height="96" rx="3" fill="url(#og5bc3c1-cell)"/>
+  <rect width="130" height="96" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M43.33 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M86.67 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 32H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 64H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="130" height="96" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(620 400) skewY(-6)">
+  <rect width="130" height="96" rx="3" fill="url(#og5bc3c1-cell)"/>
+  <rect width="130" height="96" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M43.33 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M86.67 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 32H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 64H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="130" height="96" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(765 400) skewY(-6)">
+  <rect width="130" height="96" rx="3" fill="url(#og5bc3c1-cell)"/>
+  <rect width="130" height="96" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M43.33 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M86.67 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 32H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 64H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="130" height="96" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(910 400) skewY(-6)">
+  <rect width="130" height="96" rx="3" fill="url(#og5bc3c1-cell)"/>
+  <rect width="130" height="96" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M43.33 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M86.67 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 32H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 64H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="130" height="96" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <g transform="translate(1055 400) skewY(-6)">
+  <rect width="130" height="96" rx="3" fill="url(#og5bc3c1-cell)"/>
+  <rect width="130" height="96" rx="3" fill="none" stroke="#93c5fd" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M43.33 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M86.67 0V96" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 32H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/><path d="M0 64H130" stroke="#7fb2e8" stroke-opacity=".35" stroke-width="1.4"/>
+  <rect width="130" height="96" rx="3" fill="#ffffff" fill-opacity=".06"/>
+</g>
+  <path d="M0 520h1200v110H0z" fill="#05192e"/>
+  <text x="60" y="196" font-family="system-ui, sans-serif" font-size="62" font-weight="800" fill="#ffffff">Surya Nusa Energi</text>
+  <text x="60" y="256" font-family="system-ui, sans-serif" font-size="30" fill="#fbbf24">Kontraktor Panel Surya &amp; PLTS Terpercaya</text>
+  <text x="60" y="312" font-family="system-ui, sans-serif" font-size="24" fill="#cfe3f7">Survei gratis · Perhitungan ROI transparan · Garansi pemasangan 2 tahun</text>
+</svg>
