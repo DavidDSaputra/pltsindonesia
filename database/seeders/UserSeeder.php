@@ -39,40 +39,6 @@ class UserSeeder extends Seeder
             ],
         );
 
-        // A couple of extra writers so the article list and author pages look lived-in.
-        $writers = [
-            [
-                'name' => 'Dimas Nugroho',
-                'email' => 'dimas@pltsindonesia.test',
-                'bio' => 'Teknisi senior spesialis inverter dan sistem penyimpanan energi.',
-            ],
-            [
-                'name' => 'Sari Wijaya',
-                'email' => 'sari@pltsindonesia.test',
-                'bio' => 'Analis kelayakan proyek yang menghitung penghematan dan balik modal pelanggan.',
-            ],
-        ];
-
-        foreach ($writers as $writer) {
-            User::query()->updateOrCreate(
-                ['email' => $writer['email']],
-                [
-                    'name' => $writer['name'],
-                    'password' => Hash::make('Penulis!2026'),
-                    'role' => UserRole::Editor,
-                    'bio' => $writer['bio'],
-                    'email_verified_at' => now(),
-                ],
-            );
-        }
-
-        // A regular registered user, used by the role matrix in tests.
-        User::factory()->create([
-            'name' => 'Pelanggan Umum',
-            'email' => 'pelanggan@pltsindonesia.test',
-            'role' => UserRole::User,
-        ]);
-
         $this->command?->info(sprintf(
             'CMS ready — admin %s, editor %s.',
             $admin->email,
